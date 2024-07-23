@@ -1,0 +1,8 @@
+2024-07-19 20:46:33,790 __main__ INFO: starting scan...
+2024-07-19 20:46:35,021 __main__ INFO: connecting to device...
+2024-07-19 20:46:36,349 __main__ INFO: Connected
+2024-07-19 20:46:36,803 __main__ INFO: Heart Rate Measurement: bytearray(b'\x16\xe6!\x01"\x01#\x01$\x01%\x01&\x01\'\x01(\x01)\x01*\x01+\x01,\x01-\x01.\x01/\x010\x011\x012\x013\x014\x01')
+2024-07-19 20:46:37,778 __main__ INFO: Heart Rate Measurement: bytearray(b'\x06\xf0')
+2024-07-19 20:46:38,801 __main__ INFO: Heart Rate Measurement: bytearray(b'\x16\xfa5\x016\x017\x018\x019\x01:\x01;\x01<\x01=\x01>\x01?\x01@\x01A\x01B\x01C\x01D\x01E\x01F\x01')
+2024-07-19 20:46:39,776 __main__ INFO: Heart Rate Measurement: bytearray(b'\x17\x04\x01K\x01L\x01M\x01N\x01O\x01P\x01Q\x01R\x01S\x01T\x01U\x01V\x01W\x01X\x01Y\x01Z\x01[\x01\\\x01]\x01^\x01')
+2024-07-19 20:46:40,799 __main__ INFO: Heart Rate Measurement: bytearray(b'\x07\x0e\x01')
